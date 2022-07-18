@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praneetwalvekar33
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
+- 👀 I’m interested in Android Development and Web development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on open source project involving android and its features
 - 📫 How to reach me ...
 
